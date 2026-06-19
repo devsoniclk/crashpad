@@ -1,0 +1,12 @@
+slippage:
+  max_bps: 50
+position:
+  max_usd: 1000
+loss:
+  max_per_action_usd: 25
+  max_per_day_usd: 100
+mev:
+  route_private_above_usd: 250
+rewardhack:
+  max_circular_flows: 3
+  max_self_deals_per_hour: 5
